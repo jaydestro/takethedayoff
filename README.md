@@ -7,14 +7,14 @@ There is nothing to do.  You have today off.
 clone this repo
 
 ```
-cd takethedayoff
 git clone git@github.com:jaydestro/takethedayoff.git
 ```
 
 Open a terminal and run
 
 ```
-sh takethedayoff.sh
+cd takethedayoff
+sh ./takethedayoff.sh
 ```
 
 ### Why?
