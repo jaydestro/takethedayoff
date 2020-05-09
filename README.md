@@ -17,6 +17,16 @@ cd takethedayoff
 sh ./takethedayoff.sh
 ```
 
+
+
+```
+cd takethedayoff
+sh ./takethedayoff.sh
+```
+
+![running the script](https://tva1.sinaimg.cn/large/007S8ZIlgy1gemw8uxgecj30ky0f2t8x.jpg)
+
+
 ### Why?
 
 I needed a reminder that sometimes there are days off.
