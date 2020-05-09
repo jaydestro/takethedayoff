@@ -17,16 +17,10 @@ cd takethedayoff
 sh ./takethedayoff.sh
 ```
 
-
-
-```
-cd takethedayoff
-sh ./takethedayoff.sh
-```
-
-![running the script](https://tva1.sinaimg.cn/large/007S8ZIlgy1gemw8uxgecj30ky0f2t8x.jpg)
-
+![run the script](https://media.giphy.com/media/Qv4SOcEhn0uIIjvyR4/source.gif)\
 
 ### Why?
 
-I needed a reminder that sometimes there are days off.
+I needed a reminder that sometimes there are days off. 
+
+Read more at [this blog post.](https://dev.to/azure/take-the-day-off-3242)
